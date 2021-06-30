@@ -1,4 +1,4 @@
-import Module from "../core/module.js";
+import Module from "../core/Module.js";
 import { LoginForm } from "./components/LoginForm.js";
 
 export default class LoginModule extends Module {

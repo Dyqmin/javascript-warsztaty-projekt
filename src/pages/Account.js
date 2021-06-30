@@ -1,4 +1,4 @@
-import Module from "../core/module.js";
+import Module from "../core/Module.js";
 import { Button } from "../shared/components/Button.js";
 import { InfoModal } from "../shared/components/InfoModal.js";
 

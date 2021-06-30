@@ -1,4 +1,4 @@
-import Module from "../core/module.js";
+import Module from "../core/Module.js";
 import { AddMovieForm } from "./components/AddMovieForm.js";
 import { Card } from "../shared/components/Card.js";
 
